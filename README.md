@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NirmaOktaviani
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Science
+- 📫 Find me in linkedin @Nirma Oktaviani
