@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @NirmaOktaviani
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
-- 📫 Find me in linkedin @Nirma Oktaviani
+- 🎓Statistics Graduate | 🐍 Python, R, SQL, PowerBI | 📊 Data Enthusiast | 🚀 Always Learning
+- 👋 Hi there! I’m Nirma Oktaviani a recent graduate with a degree in Statistics and a passion for data analysis. My academic background has equipped me with a strong foundation in statistical methods, probability theory, and data interpretation, which I now apply to real-world data problems.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nirmaoktaviani/)
